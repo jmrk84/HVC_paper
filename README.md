@@ -11,7 +11,7 @@ https://github.com/jmrk84/HVC_paper
 2. Provided data
 -------------------
 2.1 Registered raw EM dataset
-A streaming configuration file is provided for KNOSSOS (www.knossostool.org) that can be used
+A streaming configuration file (j0256.conf) is provided for KNOSSOS (www.knossostool.org) that can be used
 to easily access all image data and perform your own tracings in the dataset. If the hosting source
 changes, an updated streaming configuration file will be provided on github.
 
