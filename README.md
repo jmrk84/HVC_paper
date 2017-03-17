@@ -18,10 +18,14 @@ to an image stack, etc).
 
 2.2 Skeleton files
 
+All annotations are provided in a zip file, that contains the necessary data to run the functions of HVC_RA_analysis.py.
+The .k.zip files can also be opened directly in KNOSSOS for further analysis. Note that all postsynaptic tracings are contained within
+the axon k.zips.
 
 3. Source code
 -------------------
 3.1  License
+
 All source code is licensed under the GPL v2 license. 
 Copyright, J. Kornfeld, Max Planck Society
 
