@@ -4,10 +4,6 @@ This package contains the raw data files as well as source code required for
 the analysis. In case of questions or difficulties running the code, please contact
 kornfeld@neuro.mpg.de
 
-Updates regarding data and code will be made available on
-https://github.com/jmrk84/HVC_paper
-
-
 2. Provided data
 -------------------
 2.1 Registered raw EM dataset
