@@ -2,7 +2,7 @@
 -------------------
 This repository contains the data files (see releases for a data.zip with tracings annotations) as well as source code required for
 the analysis. In case of questions or difficulties running the code, please contact
-kornfeld@neuro.mpg.de
+joergen.kornfeld@bi.mpg.de
 
 2. Provided data
 -------------------
